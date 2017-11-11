@@ -41,7 +41,7 @@ managed_processes = {
   "uploader": "selfdrive.loggerd.uploader",
   "controlsd": "selfdrive.controls.controlsd",
   "plannerd": "selfdrive.controls.plannerd",
-  "radard": "selfdrive.controls.radard",
+  # "radard": "selfdrive.controls.radard",
   "loggerd": ("loggerd", ["./loggerd"]),
   "logmessaged": "selfdrive.logmessaged",
   "tombstoned": "selfdrive.tombstoned",
